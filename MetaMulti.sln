@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fusion.Unity.Editor", "Fusion.Unity.Editor.csproj", "{9C0223F5-F530-0099-EA7F-E7929C81E272}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fusion.Unity", "Fusion.Unity.csproj", "{FFF6EB53-44F0-1CDA-0EFC-B7A5DF59578E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Fusion.CodeGen", "Unity.Fusion.CodeGen.csproj", "{604543C8-C475-0067-6E28-017BD94A87CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C0223F5-F530-0099-EA7F-E7929C81E272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C0223F5-F530-0099-EA7F-E7929C81E272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C0223F5-F530-0099-EA7F-E7929C81E272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C0223F5-F530-0099-EA7F-E7929C81E272}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFF6EB53-44F0-1CDA-0EFC-B7A5DF59578E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFF6EB53-44F0-1CDA-0EFC-B7A5DF59578E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFF6EB53-44F0-1CDA-0EFC-B7A5DF59578E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFF6EB53-44F0-1CDA-0EFC-B7A5DF59578E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{604543C8-C475-0067-6E28-017BD94A87CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{604543C8-C475-0067-6E28-017BD94A87CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{604543C8-C475-0067-6E28-017BD94A87CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{604543C8-C475-0067-6E28-017BD94A87CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
